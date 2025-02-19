@@ -1,4 +1,4 @@
-# Monitoring network traffic: Analyzing DNS Log Files Using Splunk
+# Analyzing DNS Log Files Using Splunk
 
 ## Description
  **In this project i'm showcasing my ability to pre-process a DNS Log File data then analyse it, This process involved:**
