@@ -60,10 +60,10 @@ retrieving all DNS logs from Splunk through: <br/>
 identifying which IPs are making the most DNS queries: <br/>
 <img src="https://imgur.com/D6jKPYw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <p align="center">
-identifying the most accessed domains in the network : <br/>
+identifying the most accessed domains in the network (anomaly detection): <br/>
 <img src="https://imgur.com/gEiCxwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    <p align="center">
-Identifies the most active DNS clients / Compromised machines : <br/>
+Identifying the most active DNS clients / Compromised machines : <br/>
 <img src="https://imgur.com/9lo34PV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 <br />
 
