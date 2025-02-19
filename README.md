@@ -1,21 +1,26 @@
-<h1>Analyzing DNS Log Files Using Splunk SIEM</h1>
+# Analyzing DNS Log Files Using Splunk SIEM
+
+## Description
+ **Analyzing DNS Log Files Using Splunk SIEM** The process involved:
+
+- Uploading a compressed DNS log file into Splunk.
+- Manually extracting key data fields.
+- Using **Splunk Processing Language (SPL)** to automate log parsing.
 
 
-<h2>Description</h2>
+---
 
-In this project, I leveraged Splunk Enterprise to conduct a comprehensive analysis of DNS logs. The process began by uploading a compressed DNS log file into Splunk, followed by an efficient triage to prioritize critical events. I performed advanced field extraction to isolate key data points and utilized Splunk’s search and reporting capabilities to identify anomalies and potential threats. Through this analysis, I was able to highlight top DNS sources, investigate suspicious domains, and uncover patterns indicative of malicious activity. The project showcased my skills in field extraction, threat detection, and actionable intelligence generation using Splunk’s robust data analytics platform.
+## Key Features
+- **DNS Log Analysis**: Extracted and analyzed DNS logs to identify suspicious activity.
+- **Field Extraction**: Isolated key fields such as source IP, domain, and query type for deeper analysis.
+- **Threat Detection**: Used **SPL (Search Processing Language)** to detect anomalies and potential threats.
 
-<br />
+---
 
-
-<h2>Languages and Utilities Used</h2>
-
-- <b>Splunk Enterprise</b>
-- <b>SPL</br>
-  
-<h2>Environments Used </h2>
-
-- <b>Windows 11</b>
+## Languages and Utilities Used
+- **Splunk Enterprise**: For log ingestion, analysis, and visualization.
+- **SPL (Search Processing Language)**: For querying and analyzing DNS logs.
+- **Windows 11**: The environment used for running Splunk and performing the analysis
 
 
 
