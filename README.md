@@ -48,6 +48,7 @@ Extracting Relevant Fields : <br/>
 <img src="https://imgur.com/1XkZXKD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <p align="center"> Labeling the destination port <br/>
 <img src="https://imgur.com/8boF7eH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p align="center"> Save & Index the Data (Persisting Preprocessed Logs)<br/>
 <img src="https://imgur.com/oYvRk5l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
