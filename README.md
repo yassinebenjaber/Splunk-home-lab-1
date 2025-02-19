@@ -27,9 +27,7 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Splunk interface : <br/>
-<img src="https://imgur.com/2e0mTHq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
+
 <br/>
 <br/>
 <p align="center" >
@@ -52,7 +50,7 @@ Extracting Relevant Fields : <br/>
 <br/>
 <br/> 
 <p align="center">
-Idetifying Anomalies and Finding Top DNS Sources : <br/>
+Identifying Anomalies and Finding Top DNS Sources : <br/>
 <img src="https://imgur.com/b4tSzPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/D6jKPYw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/gEiCxwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
