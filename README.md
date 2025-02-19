@@ -63,13 +63,16 @@ retrieving all DNS logs from Splunk through: <br/>
 
  
  <p align="center">
-identifying which IPs are making the most DNS queries: <br/>
+identifying which IPs are making the most DNS queries through: 
+  <br/> index=_* OR index=* sourcetype=dns_logs | stats count by src_ip <br/>
 <img src="https://imgur.com/D6jKPYw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   <p align="center">
-identifying the most accessed domains in the network (anomaly detection): <br/>
+identifying the most accessed domains in the network (anomaly detection) through:
+   <br/>index=_* OR index=* sourcetype=dns_logs | top limit=20 domain_name<br/>
 <img src="https://imgur.com/gEiCxwX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    <p align="center">
-Identifying the most active DNS clients / Compromised machines : <br/>
+Identifying the most active DNS clients / Compromised machines through : 
+    <br/>index=_* OR index=* sourcetype=dns_logs | top limit=10 src_ip<br/>
 <img src="https://imgur.com/9lo34PV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 <br />
 
