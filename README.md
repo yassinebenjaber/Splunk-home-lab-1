@@ -1,7 +1,7 @@
 # Analyzing DNS Log Files Using Splunk SIEM
 
 ## Description
- **In this project i'm showcasing my ability to preprocess a DNS Log File data then analyse it, This process involved:
+ **In this project i'm showcasing my ability to preprocess a DNS Log File data then analyse it, This process involved:**
 
 - Uploading a compressed DNS log file into Splunk.
 - Manually extracting key data fields.
