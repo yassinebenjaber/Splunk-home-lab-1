@@ -54,11 +54,12 @@ Extracting Relevant Fields : <br/>
 <br/>
 <br/> 
 <p align="center">
-retrieving all DNS logs from Splunk through: 
+retrieving all DNS logs from Splunk through: <br/>
+ index=_* OR index=* sourcetype=dns_logs
 <img src="https://imgur.com/b4tSzPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br/>
- ```splunk
- index=_* OR index=* sourcetype=dns_logs
+
+ 
 
  
  <p align="center">
