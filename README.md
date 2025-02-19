@@ -57,9 +57,6 @@ Identifying Anomalies and Finding Top DNS Sources : <br/>
 <img src="https://imgur.com/9lo34PV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
 <br />
 
-<h2>Conclusion</h2>
-Analyzing DNS log files using Splunk SIEM enables security professionals to detect and respond to potential security incidents effectively. By understanding DNS activity and identifying anomalies, organizations can enhance their overall security posture and protect against various cyber threats.
-
 </p>
 
 <!--
