@@ -54,8 +54,9 @@ Extracting Relevant Fields : <br/>
 <br/>
 <br/> 
 <p align="center">
-retrieving all DNS logs from Splunk through: <br/>
+retrieving all DNS logs from Splunk through: 
 <img src="https://imgur.com/b4tSzPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <br/>
  <p align="center">
 identifying which IPs are making the most DNS queries: <br/>
 <img src="https://imgur.com/D6jKPYw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
