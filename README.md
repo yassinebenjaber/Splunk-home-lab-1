@@ -3,7 +3,7 @@
 ## Description
  **In this project i'm showcasing my ability to pre-process a DNS Log File data then analyse it, This process involved:**
 
-- Uploading a compressed DNS log file into Splunk.
+- Uploading a compressed [DNS log file](https://www.secrepo.com/maccdc2012/dns.log.gz) into Splunk.
 - Manually extracting key data fields.
 - Using **Splunk Processing Language (SPL)** to automate log parsing.
 
